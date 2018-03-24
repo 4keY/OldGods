@@ -1,0 +1,40 @@
+﻿v1.0.2
+Fixed Halloween Tickets issue
+New Elemental spirits textures
+Necromancer now doesn't sell Demon Scythe and Demon's Horn. Instead she sells scrolls that can be used as a consumable magic item.
+
+v1.0.1
+Added Crystal Wand - summons Crystal Bats
+Added Halloween Tickets - rare pre-hardmode drop used to craft halloween items 
+Earth Spirits are immune to poison and Fire spirits are immune to fire
+Hell Mimics are immune to fire
+Molten Slimes are immune to fire
+Burning sword buffed 
+	damage increased from 7 to 8 
+	attack speed increased by 10%
+Hell core nerfed 
+	from 8 def to 4 def
+	from -40hp to -50hp
+	from +10% def to +5% def
+Last Spark nerfed
+	damage decreased from 12 to 10
+	attack speed decreased by 20%
+Sharkolver buffed
+	damage increased from 18 to 20
+Root buffed
+	damage increased from 25 to 28
+Small rock buffed
+	damage increased from 1 to 2
+Snowstorm staff nerfed
+	damage decreased from 7 to 6
+Dragons breath nerfed
+	damage decreased from 50 to 45
+Biome mimics spawne chance increased by 50%
+Increased drop for Hunter from 0.5% to 2%
+Increased drop for Snowstorm staff from 2% to 2.5%
+Repaired drop values for halloween/christmas essences
+Fixed Pulse Pistol bullet gravitation
+Fixed Pulse Ammo crafting problem and changed crafting recipe
+
+v1.0
+First Release
